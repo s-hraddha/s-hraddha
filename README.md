@@ -15,15 +15,15 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <img align="right" alt="Coding" width="350" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxNDIzNzMsIm5iZiI6MTcyMzE0MjA3MywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA4VDE4MzQzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3YmViZDkxYjMzYThmYjIyMTVmMjE1NWRiMWZkNWI1Y2YwZThkYTY1N2M0OTA3NTBhNDBmZmI4ODU3ZWQ4NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3Gs3afp3l9FX200ndGfgyqNJsDKO_qCdULZOOQL2h0M" />
 
 ## About Me
-* 🌍  I'm from Aligarh, India
-* 🔭 I’m currently working on  React-Native Android Applications.
-* 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms and React-Native.
+* 🌍  I'm from Kanpur, India
+* 🔭 I’m currently working on Web Applications.
+* 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
 * 🤔 I’m looking for help with developing web apps.
-* 📫 How to reach me **yamanrajsingh07@gmail.com**
+* 📫 How to reach me **xyz07@gmail.com**
 * ⚡ Fun fact: **Don't stop until you are proud**.
 * 💬 ask me about anything, i am happy to help;
-* 👨‍💻 My Portfolio: **https://yamanrajsingh.github.io/Portfolio/**
+* 👨‍💻 My Portfolio: **url**
 
 
 <h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
