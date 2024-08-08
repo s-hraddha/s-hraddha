@@ -29,9 +29,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
 </br>
 <p align="left">
-<a href="https://twitter.com/yamanrajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamanrajsingh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yamanrajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamanrajsingh" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100013941399038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100013941399038" height="30" width="40" /></a>
 <a href="https://instagram.com/yamanrajsingh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamanrajsingh007" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yamanrajsingh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yamanrajsingh07" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yamanrajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yamanrajsingh" height="30" width="40" /></a>
