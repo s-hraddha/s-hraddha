@@ -48,7 +48,7 @@
 
 <h2>LeetCode Status 📊</h2>
 <p> <a href="https://leetcode.com/u/shrad_dha/" target="_blank">
-    <img title="Shraddha LeetCode Stats" alt="Shraddha's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=s-hraddha&theme=dark" /> </p>
+    <img title="Shraddha LeetCode Stats" alt="Shraddha's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=shrad_dha&theme=dark" /> </p>
 
     
 <br />
