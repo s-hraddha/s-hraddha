@@ -8,8 +8,6 @@
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=s-hraddha&theme=onedark)](https://github.com/s-hraddha/github-profile-trophy)
 
-<p align="left"> <a href="http://www.linkedin.com/in/shraddha56" target="blank"><img src="https://img.shields.io/twitter/follow/yamanrajsingh?logo=twitter&style=for-the-badge" alt="shraddha56" /></a> </p>
-
 <img align="right" alt="Coding" width="350" src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjMxNDIzNzMsIm5iZiI6MTcyMzE0MjA3MywicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODA4VDE4MzQzM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE3YmViZDkxYjMzYThmYjIyMTVmMjE1NWRiMWZkNWI1Y2YwZThkYTY1N2M0OTA3NTBhNDBmZmI4ODU3ZWQ4NmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.3Gs3afp3l9FX200ndGfgyqNJsDKO_qCdULZOOQL2h0M" />
 
 ## About Me
@@ -50,7 +48,7 @@
 
 <h2>LeetCode Status 📊</h2>
 <p> <a href="https://leetcode.com/u/shrad_dha/" target="_blank">
-    <img title="YamanRajSingh LeetCode Stats" alt="Shraddha's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=s-hraddha&theme=dark" /> </p>
+    <img title="Shraddha LeetCode Stats" alt="Shraddha's LeetCode Stats" src="https://leetcode-stats.vercel.app/api?username=s-hraddha&theme=dark" /> </p>
 
     
 <br />
