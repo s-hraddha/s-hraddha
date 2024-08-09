@@ -20,7 +20,7 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 * 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms.
 * 👯 I’m looking to collaborate on **Open Source Projects**.
 * 🤔 I’m looking for help with developing web apps.
-* 📫 How to reach me **xyz07@gmail.com**
+* 📫 How to reach me **applicantshraddha286@gmail.com**
 * ⚡ Fun fact: **Don't stop until you are proud**.
 * 💬 ask me about anything, i am happy to help;
 * 👨‍💻 My Portfolio: **url**
@@ -29,11 +29,11 @@ positivity.Now I am looking for an opportunity as a full stack web developer wit
 <h2 align="left">Connect with me <img src='https://user-images.githubusercontent.com/69167064/159184623-31d54ed6-95b7-4522-9da7-2ce0d07457df.gif' width="80px"></h2>
 </br>
 <p align="left">
-<a href="https://linkedin.com/in/yamanrajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamanrajsingh" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/shraddha56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shraddha" height="30" width="40" /></a>
 <a href="https://instagram.com/yamanrajsingh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamanrajsingh007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/yamanrajsingh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yamanrajsingh07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yamanrajsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yamanrajsingh" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/yamanrajsingh/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yamanrajsingh/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/applicantshradd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="yamanrajsingh07" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shrad_dha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yamanrajsingh" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/sharmashrtu6h/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/yamanrajsingh/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 </br>
 <h2 align="left">Languages and Tools
